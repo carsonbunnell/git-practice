@@ -1,2 +1,1 @@
-console.log('I hate all the orphans in the whole world')
-console.log('we made a change')
+console.log('I hate no orphans in the whole world')
